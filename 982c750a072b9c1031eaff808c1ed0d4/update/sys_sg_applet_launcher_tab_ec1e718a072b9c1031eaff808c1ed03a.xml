@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="FDs">a01ef5c6072b9c1031eaff808c1ed08a</applet_launcher>
+        <icon display_value="Home FDs">201e718a072b9c1031eaff808c1ed03b</icon>
+        <label>FDs</label>
+        <roles>admin</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-30 21:08:01</sys_created_on>
+        <sys_id>ec1e718a072b9c1031eaff808c1ed03a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDs</sys_name>
+        <sys_package display_value="FDs" source="x_27034_fds">982c750a072b9c1031eaff808c1ed0d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FDs">982c750a072b9c1031eaff808c1ed0d4</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_ec1e718a072b9c1031eaff808c1ed03a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-30 21:08:01</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>
