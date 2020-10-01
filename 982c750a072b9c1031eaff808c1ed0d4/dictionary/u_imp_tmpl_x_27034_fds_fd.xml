@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 27034 Fds Fd" max_length="40" name="u_imp_tmpl_x_27034_fds_fd" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Amount" label="Amount" max_length="20" name="u_amount" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Bank" label="Bank" max_length="40" name="u_bank" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Duration" max_length="40" name="u_duration" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FdName" max_length="40" name="u_fdname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FD_Name" label="FD_Name" max_length="40" name="u_fd_name" type="string"/>
+        <element attributes="import_attribute_name=int" label="int" max_length="15" name="u_int" type="decimal"/>
+        <element label="Intrest" max_length="15" name="u_intrest" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Maturity" label="Maturity" max_length="40" name="u_maturity" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Maturity Date" max_length="40" name="u_maturity_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="u_number" type="string"/>
+    </element>
+</database>

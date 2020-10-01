@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_cubes">
+    <pa_cubes action="INSERT_OR_UPDATE">
+        <benchmarking>false</benchmarking>
+        <conditions/>
+        <description/>
+        <facts_table>x_27034_fds_fd</facts_table>
+        <facts_table_pk/>
+        <facts_table_pktable/>
+        <facts_table_pkview/>
+        <frequency>10</frequency>
+        <max_record_fetch_count>50000</max_record_fetch_count>
+        <name>avi_FD01</name>
+        <override_record_collection>false</override_record_collection>
+        <report_source/>
+        <report_source_updated_at/>
+        <sys_class_name>pa_cubes</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-30 21:26:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cd12028e072b9c1031eaff808c1ed035</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>avi_FD01</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FDs" source="x_27034_fds">982c750a072b9c1031eaff808c1ed0d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FDs">982c750a072b9c1031eaff808c1ed0d4</sys_scope>
+        <sys_update_name>pa_cubes_cd12028e072b9c1031eaff808c1ed035</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-30 21:26:14</sys_updated_on>
+    </pa_cubes>
+    <sys_translated_text action="delete_multiple" query="documentkey=cd12028e072b9c1031eaff808c1ed035"/>
+</record_update>
